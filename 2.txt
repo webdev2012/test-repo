@@ -2,7 +2,7 @@ ik brq
 <html>
 <head>
 <body>
- <h1>Privet</h1>
+ <h1>Privet2</h1>
 </body>
 </head>
 </html>
