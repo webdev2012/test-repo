@@ -3,7 +3,6 @@ ik br
 <head>
 <body>
  <h1>Privet</h1>
- <p>Плдлодрлпарпрпора</p>
 </body>
 </head>
 </html>
